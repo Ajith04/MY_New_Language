@@ -1,0 +1,5 @@
+// Example syntax according to your grammar
+component Button {
+    style: "background-color: red;";
+    onClick: "alert('Clicked!');";
+}
